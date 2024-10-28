@@ -1,4 +1,56 @@
-[00:00:48] [Server thread/INFO]: joplenius lost connection: Disconnected
-[00:00:48] [Server thread/INFO]: joplenius left the game
-[00:22:12] [Server thread/INFO]: Endarg lost connection: Disconnected
-[00:22:12] [Server thread/INFO]: Endarg left the game
+[20:11:52] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:11:54] [ServerMain/INFO]: Loaded 1290 recipes
+[20:11:54] [ServerMain/INFO]: Loaded 1399 advancements
+[20:11:55] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[20:11:55] [Server thread/INFO]: Loading properties
+[20:11:55] [Server thread/INFO]: Default game type: SURVIVAL
+[20:11:55] [Server thread/INFO]: Generating keypair
+[20:11:55] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:11:55] [Server thread/INFO]: Using epoll channel type
+[20:11:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:11:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:11:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:11:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:11:55] [Server thread/INFO]: Preparing level "world"
+[20:12:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:12:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:12:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:12:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:12:03] [Server thread/INFO]: Time elapsed: 1247 ms
+[20:12:03] [Server thread/INFO]: Done (8.285s)! For help, type "help"
+[20:12:45] [Server thread/INFO]: joplenius[/5.178.148.92:15482] logged in with entity id 8 at (-5466.186335532749, 64.0, 6869.890655282445)
+[20:12:45] [Server thread/INFO]: joplenius joined the game
+[20:12:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[20:14:05] [Server thread/INFO]: Endarg[/176.57.221.216:55774] logged in with entity id 1103 at (-5457.854372096936, 64.0, 6868.300000011921)
+[20:14:05] [Server thread/INFO]: Endarg joined the game
+[20:31:07] [Server thread/INFO]: Endarg fell from a high place
+[20:33:51] [Server thread/INFO]: Endarg fell from a high place
+[20:35:00] [Server thread/INFO]: Teleported Endarg to -5509.500000, 78.000000, 6858.500000
+[20:35:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2326ms or 46 ticks behind
+[20:57:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[20:57:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7242ms or 144 ticks behind
+[20:58:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3157ms or 63 ticks behind
+[20:58:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[20:58:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2221ms or 44 ticks behind
+[21:01:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
+[21:04:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[21:05:21] [Server thread/INFO]: Endarg lost connection: Disconnected
+[21:05:21] [Server thread/INFO]: Endarg left the game
+[21:06:04] [Server thread/INFO]: Endarg[/176.57.221.216:56446] logged in with entity id 18218 at (-5099.506674705706, 71.0, 6634.718633184158)
+[21:06:04] [Server thread/INFO]: Endarg joined the game
+[21:28:40] [Server thread/INFO]: Set the time to 1000
+[21:33:44] [Server thread/INFO]: Endarg fell from a high place
+[21:38:59] [Server thread/INFO]: Set the time to 1000
+[21:53:28] [Server thread/INFO]: Set the time to 1000
+[22:02:53] [Server thread/INFO]: Set the time to 1000
+[22:12:58] [Server thread/INFO]: Set the time to 1000
+[22:21:43] [Server thread/INFO]: Endarg fell from a high place
+[22:23:02] [Server thread/INFO]: Set the time to 1000
+[22:26:51] [Server thread/INFO]: Endarg fell from a high place
+[22:44:15] [Server thread/INFO]: Set the time to 1000
+[22:45:36] [Server thread/INFO]: Teleported Endarg to -5574.500000, 134.000000, 6816.500000
+[22:46:23] [Server thread/INFO]: Teleported Endarg to -5574.500000, 134.000000, 6816.500000
+[22:55:09] [Server thread/INFO]: Endarg lost connection: Disconnected
+[22:55:09] [Server thread/INFO]: Endarg left the game
+[22:55:11] [Server thread/INFO]: joplenius lost connection: Disconnected
+[22:55:11] [Server thread/INFO]: joplenius left the game
